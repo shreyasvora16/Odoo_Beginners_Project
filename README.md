@@ -1,13 +1,14 @@
 # Odoo_Beginners_Project
 
 Add odoo-16 repo from my repositories in this folder to run this project on laptop or computer on localhost:8016.
+</br>
 
 username : learn
 password : learn
+</br>
 
-<strong>
 https://www.udemy.com/course/the-complete-odoo-technical-course-2023-from-zero-to-hero/
-</strong>
+</br>
 
 I have learned below mentioned things from this course :
 
