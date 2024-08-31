@@ -3,7 +3,7 @@
 Add odoo-16 repo from my repositories in this folder to run this project on laptop or computer on localhost:8016.
 </br>
 
-username : learn
+username : learn</br>
 password : learn
 </br>
 
