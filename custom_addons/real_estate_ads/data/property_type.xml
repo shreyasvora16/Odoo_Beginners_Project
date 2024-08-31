@@ -1,0 +1,22 @@
+<odoo>
+    <data>
+        <record id="property_type_apartment" model="estate.property.type">
+            <field name="name">Apartment</field>
+        </record>
+        <record id="property_type_penthouse" model="estate.property.type">
+            <field name="name">Penthouse</field>
+        </record>
+        <record id="property_type_bungalow" model="estate.property.type">
+            <field name="name">Bungalow</field>
+        </record>
+        <record id="property_type_villa" model="estate.property.type">
+            <field name="name">Villa</field>
+        </record>
+        <record id="property_type_castle" model="estate.property.type">
+            <field name="name">Castle</field>
+        </record>
+        <record id="property_type_hut" model="estate.property.type">
+            <field name="name">Hut</field>
+        </record>
+    </data>
+</odoo>

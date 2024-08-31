@@ -1,0 +1,7 @@
+"id","name"
+property_type_apartment, Apartment
+property_type_penthouse, Penthouse
+property_type_bungalow, Bungalow
+property_type_villa, Villa
+property_type_castle, Castle
+property_type_hut, Hut
